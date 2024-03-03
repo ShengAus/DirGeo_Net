@@ -1,10 +1,10 @@
 # set -ex
 python3 /home/sheng/Diffusion/miccai_2024/AnyDirs_test.py \
 --dataroot /home/sheng/Diffusion/PPMI \
---name PPMIFaSeUV2_100 \
---model GradSeFA \
+--name PPMIDirGeo_100 \
+--model DirGeo \
 --epoch latest \
---net SeUV2 \
+--net DirGeo \
 --input_nc 7  \
 --output_nc 6  \
 --dataset_mode PPMIAnyDirstest \

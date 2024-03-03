@@ -1,13 +1,13 @@
 set -ex
 python3 /home/sheng/Diffusion/miccai_2024/AnyDirs_test.py \
 --dataroot /home/sheng/Diffusion/data \
---name HCPFaSeUV2_100 \
---model GradSeFA \
+--name HCPDirGeo_100 \
+--model DirGeo \
 --epoch latest \
---net SeUV2 \
+--net DirGeo \
 --input_nc 7  \
 --output_nc 6  \
---dataset_mode HCPAnyDIrsTest \
+--dataset_mode HCPAnyDirsTest \
 --data_norm z_scoreV2 \
 --serial_batches \
 --batch_size 1 \

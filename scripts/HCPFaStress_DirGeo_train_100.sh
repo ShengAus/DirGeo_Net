@@ -3,7 +3,7 @@ python3 /home/sheng/Diffusion/miccai_2024/HCPAnyDirs_train.py \
 --dataroot /home/sheng/Diffusion/data \
 --name HCPDirGeo_100 \
 --model DirGeo \
---net SeUV2 \
+--net DirGeo \
 --input_nc 7  \
 --output_nc 6  \
 --lr 0.0001 \
