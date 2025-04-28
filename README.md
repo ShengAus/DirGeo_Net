@@ -1,6 +1,8 @@
 # DirGeo-Net
 
-Official PyTorch implementation of DirGeo-Net: Angular Resolution Enhancement via Directional and Geometric Learning in Brain Diffusion Tensor Imaging
+Official PyTorch implementation of DirGeo-Net: Angular Resolution Enhancement via Directional and Geometric Learning in Brain Diffusion Tensor Imaging.
+
+This paper has been **accepted to ICONIP2024** and awarded as the **Best student Paper**.
 
 
 ![DirGeo-Net](./imgs/network.png)
@@ -17,7 +19,7 @@ Official PyTorch implementation of DirGeo-Net: Angular Resolution Enhancement vi
 **Please refer to the official website (or project repo) for license and terms of usage.**
 **Some preprocessing have been applied to the original data before feeding into our data loader. Please find the details in our paper.**
 
-**HPC**
+**HCP**
 
 - Official Website: https://www.humanconnectome.org/
 
