@@ -1,8 +1,8 @@
-# DirGeo-Net
+# DirGeo-Net (ICONIP2024, Best Student Paper)
 
 Official PyTorch implementation of DirGeo-Net: Angular Resolution Enhancement via Directional and Geometric Learning in Brain Diffusion Tensor Imaging.
 
-This paper has been **accepted to ICONIP2024** and awarded as the **Best student Paper**.
+This paper has been **accepted to ICONIP2024** and awarded as the **Best Student Paper**.
 
 
 ![DirGeo-Net](./imgs/network.png)
